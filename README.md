@@ -18,7 +18,7 @@ Head over to [HacktoberFest](https://hacktoberfest.digitalocean.com/), sign up a
 - Add/ append your details into the `README.md` in the format:
 ```
 - [Name](link_to_github)
-```
+` Yash Goien (www.github.com/yashGoien)
 
 an example:
 ```
@@ -82,3 +82,4 @@ an example:
  - [AyahRamahi](https://github.com/AyahRamahi)
  - [cbbeard](https://github.com/cbbeard)
  - [ProfessorParadox](https://github.com/ProfessorParadox)
+ [Yash Goien][www.github.com/yashGoien]
